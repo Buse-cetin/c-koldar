@@ -1,0 +1,7 @@
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\bin\Debug\201307037+Buse+Çetin.exe.config
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\bin\Debug\201307037+Buse+Çetin.exe
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\bin\Debug\201307037+Buse+Çetin.pdb
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\obj\Debug\201307037+Buse+Çetin.csprojAssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\obj\Debug\201307037+Buse+Çetin.csproj.CoreCompileInputs.cache
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\obj\Debug\201307037+Buse+Çetin.exe
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037+Buse+Çetin\201307037+Buse+Çetin\obj\Debug\201307037+Buse+Çetin.pdb

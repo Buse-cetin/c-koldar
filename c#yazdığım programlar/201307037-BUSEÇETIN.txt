@@ -1,0 +1,43 @@
+﻿
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _201307037_BuseÇetın
+{
+    class Şekil
+    {
+        static void metot(int a)
+        {
+            Console.WriteLine("Bu bir noktadır. Değeri:" + a);
+        }
+
+        static void metot(int b, int c)
+        {
+            int alan = (b * c);
+            if (b == c)
+            {
+                Console.WriteLine("Bu bir karedir. Alan:" + alan);
+            }
+            else
+            {
+                Console.WriteLine("Bu bir dikdörtgendir. Alan:" + alan);
+            }
+        }
+        static void metot(int d, int e, int f)
+        {
+            int hacim = d * e * f;
+            Console.WriteLine("3 boyutlu bir cisimdir. Hacim:" + hacim);
+        }
+
+        static void Main(string[] args)
+        {
+            metot(3);
+            metot(5, 4);
+            metot(6, 5, 4);
+        }
+       
+    }
+}

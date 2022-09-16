@@ -1,0 +1,2 @@
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037\201307037\obj\Debug\201307037.csprojAssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\Algoritma ve Programlama1\201307037\201307037\obj\Debug\201307037.csproj.CoreCompileInputs.cache
